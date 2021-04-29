@@ -1,0 +1,17 @@
+.wrapper {
+    text-align:center;
+    width:100%;
+    display:block;
+}
+.head {
+    display:inline;
+    background-color:white;
+    color:black;
+    border-radius:5em;
+    font-size: 50px;
+    padding: 0px 10px;
+    font-family: 'New Tegomin', serif;
+}
+body {
+    background-color: black;
+}
